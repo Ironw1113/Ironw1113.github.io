@@ -1,0 +1,5 @@
+So I decided to make my site sturcture based off of both my p2 and p3 projects. 
+It has my home page which has a button for sign up and after signing up it will redirect you back to the homepage. Then further bellow is all items that my snowboard company sells which includes boards and gear. I also wanted to implement a video showing riders who use the snowboards. 
+Then I have a sticky bar on the top of each page which will direct you to eather the home, shop, or about me. 
+I did have though a lot of trouble with having the forum page go back to the home page which took some reasearch and was able to have it redirect once you it the sign up button. 
+I would like in the future to be able to add a shopping cart or a a spereate home page for my shop for each type of gear. 
